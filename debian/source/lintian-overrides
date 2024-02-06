@@ -1,0 +1,5 @@
+python-ldap3 source: file-without-copyright-information
+python-ldap3 source: no-debian-changes
+python-ldap3 source: source-contains-prebuilt-windows-binary
+python-ldap3 source: source-is-missing
+python-ldap3 source: source-package-encodes-python-version

@@ -1,0 +1,4 @@
+python3-ldap3: copyright-without-copyright-notice
+python3-ldap3: initial-upload-closes-no-bugs
+python3-ldap3: no-manual-page
+python3-ldap3: zero-byte-file-in-doc-directory
